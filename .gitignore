@@ -1,0 +1,8 @@
+vector_db/
+sample.pdf
+__pycache__/
+*.pyc
+venv/
+.DS_Store
+*.egg-info/
+.env
