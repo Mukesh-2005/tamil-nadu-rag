@@ -90,15 +90,17 @@ API available at `http://localhost:8000/docs`
 - Training programs for sustainable agriculture provided
 
 ## 📁 Project Structure
+
 tamil-nadu-rag/
 ├── create_pdf.py          # Create sample PDF document
 ├── build_rag.py           # Build vector database
 ├── rag_api.py             # FastAPI endpoints
 ├── app_demo.py            # Gradio web interface
 ├── requirements.txt       # Python dependencies
-├── README.md              # This file
+├── README.md              # Project documentation
 ├── sample.pdf             # Generated PDF (after run)
 └── vector_db/             # Generated vector database (after run)
+
 
 ## 📋 Requirements
 
