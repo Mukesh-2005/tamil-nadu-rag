@@ -68,15 +68,17 @@ uvicorn rag_api:app
 API available at `http://localhost:8000/docs`
 
 ## 📊 How It Works
-User Question
-↓
-Vector Embedding (Sentence Transformers)
-↓
-FAISS Similarity Search
-↓
-Retrieve Top 3 Passages
-↓
-Display Results to User
+
+1. **User Question**  
+   ↓  
+2. **Vector Embedding** (Sentence Transformers)  
+   ↓  
+3. **FAISS Similarity Search**  
+   ↓  
+4. **Retrieve Top 3 Passages**  
+   ↓  
+5. **Display Results to User**
+
 
 ## 💻 Usage Example
 
