@@ -91,6 +91,7 @@ API available at `http://localhost:8000/docs`
 
 ## 📁 Project Structure
 
+```plaintext
 tamil-nadu-rag/
 ├── create_pdf.py          # Create sample PDF document
 ├── build_rag.py           # Build vector database
@@ -100,6 +101,7 @@ tamil-nadu-rag/
 ├── README.md              # Project documentation
 ├── sample.pdf             # Generated PDF (after run)
 └── vector_db/             # Generated vector database (after run)
+```
 
 
 ## 📋 Requirements
